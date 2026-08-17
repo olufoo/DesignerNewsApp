@@ -25,7 +25,7 @@ $ git submodule update --init --recursive
 $ open DesignerNewsApp.xcodeproj
 ```
 
-4) Compile and run the app in your simulator
+4) Compile and run the app in your
 
 ![](Screenshots/designer-news-compile-and-run.jpg)
 
